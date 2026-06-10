@@ -9,8 +9,6 @@ Reconstruct a geometrically coherent 3D point cloud of an indoor room from a sho
 <<<<<<< HEAD
 **[Sample input video (Google Drive)](https://drive.google.com/file/d/10ZTSDNGz4ZBadH5MFgNXpLJ6TDTsNp0X/view?usp=sharing)** — the original phone footage this reconstruction was built from.
 =======
-**[Sample input video (Google Drive)](https://drive.google.com/file/d/1tT2gzKA8Dx3pVgpEXhN1QTI-927BXpmE/view?usp=sharing)** — the original phone footage this reconstruction was built from.
->>>>>>> eff14fdd4ea44ed648d2afa263e52d72ae6c470a
 
 See the [`examples/`](examples/) folder for sample input frames and multiple viewing angles of the output.
 
