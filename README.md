@@ -2,13 +2,13 @@
 
 Reconstruct a geometrically coherent 3D point cloud of an indoor room from a short phone video, using the **DUSt3R** feed-forward model. Built as a take-home for the Humanoid *Perception & Spatial AI* internship.
 
-![3D reconstruction of a bedroom](examples/result.png)
+[3D reconstruction of a bedroom](examples/result.png)
 
 *A bedroom reconstructed from a ~55-second handheld phone video — bed, headboard, radiator and walls all recovered at sensible depths.*
 
-▶️ **[Sample input video (Google Drive)](https://drive.google.com/file/d/1tT2gzKA8Dx3pVgpEXhN1QTI-927BXpmE/view?usp=sharing)** — the original phone footage this reconstruction was built from.
+**[Sample input video (Google Drive)](https://drive.google.com/file/d/10ZTSDNGz4ZBadH5MFgNXpLJ6TDTsNp0X/view?usp=sharing)** — the original phone footage this reconstruction was built from.
 
-📂 See the [`examples/`](examples/) folder for sample input frames and multiple viewing angles of the output.
+See the [`examples/`](examples/) folder for sample input frames and multiple viewing angles of the output.
 
 ## What it does
 
